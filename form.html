@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+</head>
+
+<body>
+<table border="3px" cellpadding="5px">
+	<caption><h3>Đăng ký khóa học</h3></caption>
+    <tr>
+    <form>
+    	<td><label for="ten">Họ và tên:</label></td>
+    	<td><input type="text" name="ten" id="ten" required maxlength="20"></td>
+    </form>
+    </tr>
+    <tr>
+    <form>
+    	<td><label for="mk">Mật Khẩu:</label></td>
+        <td><input type="password" name="matkhau" id="mk" required></td>
+    </form>
+    </tr>
+    <tr>
+    <form>
+    	<td>Ngày Sinh:</td>
+        <td><input type="date" name="date"></td>
+    </form>
+    </tr>
+    <tr>
+    <form>
+    	<td>Email</td>
+        <td><input type="email" name="email"></td>
+    </form>
+    </tr>
+    <tr>
+    <form>
+    	<td>Chọn lớp đăng kí:́</td>
+        <td><input type="text" list="favorite">
+        	<datalist id="favorite">
+        	<option>Ngoại ngữ</option>
+            <option>Tin học</option>
+            <option>Đồ họa</option>
+            <option>Âm nhạc</option>
+        	</datalist></td>
+    </form>
+    </tr>
+    <tr>
+    	<form
+        <td colspan="2" align="center"><input type="submit" value="Đăng kí"></td>
+        </form>
+    </tr>
+</form>
+</table>
+</body>
+</html>
