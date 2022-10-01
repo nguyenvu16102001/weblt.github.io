@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-01T09:05:23.881Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="UcgJ5TbCw9q0CH0L65fk" version="20.3.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-10-01T09:05:30.011Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="jUW7DqcolJbiXw6m9ay6" version="20.3.6" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Odoo-ERP">
     <mxGraphModel dx="1278" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1065,7 +1065,7 @@
         <mxCell id="wPIOkGs6woOoaNdy3Bfi-42" value="Có" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wPIOkGs6woOoaNdy3Bfi-13" target="wPIOkGs6woOoaNdy3Bfi-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wPIOkGs6woOoaNdy3Bfi-13" value="12. Số lượng yêu&lt;br&gt;&amp;nbsp;cầu đã đủ?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="wPIOkGs6woOoaNdy3Bfi-13" value="12. Số lượng yêu&lt;br&gt;&amp;nbsp;cầu đã đủ?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="690" y="450" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wPIOkGs6woOoaNdy3Bfi-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wPIOkGs6woOoaNdy3Bfi-14" target="wPIOkGs6woOoaNdy3Bfi-15" edge="1">
